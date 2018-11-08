@@ -1,0 +1,10 @@
+export const USER_NAME_ERR = '用户名不为空！！';
+export const PASSWORD_ERR = '密码不为空！！';
+export const SALARY_ERR = '薪资不为空！！';
+export const REPASSWORD_ERR = '两次密码不一致！！';
+export const COMPANY_ERR = '公司名不为空！！';
+export const LAOBAN_INFO_ERR = '岗位要求不为空！！';
+export const DASHEN_INFO_ERR = '个人介绍不为空！！';
+export const JOB_ERR = '职位不为空！！';
+export const REQ_ERR = '网络环境较差,请刷新重试';
+export const HEADER_ERR = '请选择头像';

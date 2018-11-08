@@ -1,0 +1,9 @@
+export const REQ_SUCCESS = 'REQ_SUCCESS';
+export const ERR_MSG = 'ERR_MSG';
+export const REQ_USER_LIST = 'REQ_USER_LIST';
+export const REQ_USER_LIST_ERR = 'REQ_USER_LIST_ERR';
+export const REQ_CHAT_LIST = 'REQ_CHAT_LIST';
+export const REQ_CHAT_LIST_ERR = 'REQ_CHAT_LIST_ERR';
+export const ADD_CHAT_TO_LIST = 'ADD_CHAT_TO_LIST';
+export const UPDATE_READE_COUNT = 'UPDATE_READE_COUNT';
+export const UPDATE_READE_COUNT_ERR = 'UPDATE_READE_COUNT_ERR';
